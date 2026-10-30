@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-10-29T09:23:13+00:00",
-  "source_items": 600,
-  "feed_items": 600,
+  "generated_utc": "2026-10-30T10:35:19+00:00",
+  "source_items": 598,
+  "feed_items": 598,
   "skipped": 0,
   "in_stock": 556,
-  "out_of_stock": 44,
+  "out_of_stock": 42,
   "on_sale": 37,
   "duplicate_ids": [
     "75226",
@@ -16,14 +16,14 @@
     "75227 -> 75227..",
     "75228 -> 75228.."
   ],
-  "brand_fallback": 231,
-  "titles_cleaned": 374,
+  "brand_fallback": 230,
+  "titles_cleaned": 373,
   "description_fallback": 1,
   "coverage": {
-    "sitemap_product_pages": 428,
-    "feed_product_pages": 417,
-    "covered": 417,
-    "coverage": 0.9743,
+    "sitemap_product_pages": 426,
+    "feed_product_pages": 415,
+    "covered": 415,
+    "coverage": 0.9742,
     "in_sitemap_not_in_feed": [
       "/producten/ik-wil-mijn-product-laten-inpakken",
       "/producten/moraz-polygonum-dagcreme-nd",

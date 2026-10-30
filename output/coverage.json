@@ -1,0 +1,43 @@
+{
+  "generated_utc": "2026-10-29T09:23:13+00:00",
+  "source_items": 600,
+  "feed_items": 600,
+  "skipped": 0,
+  "in_stock": 556,
+  "out_of_stock": 44,
+  "on_sale": 37,
+  "duplicate_ids": [
+    "75226",
+    "75227",
+    "75228"
+  ],
+  "ids_resolved": [
+    "75226 -> 75226..",
+    "75227 -> 75227..",
+    "75228 -> 75228.."
+  ],
+  "brand_fallback": 231,
+  "titles_cleaned": 374,
+  "description_fallback": 1,
+  "coverage": {
+    "sitemap_product_pages": 428,
+    "feed_product_pages": 417,
+    "covered": 417,
+    "coverage": 0.9743,
+    "in_sitemap_not_in_feed": [
+      "/producten/ik-wil-mijn-product-laten-inpakken",
+      "/producten/moraz-polygonum-dagcreme-nd",
+      "/producten/neusclip-mondkapje",
+      "/producten/sonomask-mondkapje-nu-twee-mondkapjes-voor-59-euro",
+      "/producten/sonomask-pro-blauw",
+      "/producten/sonomask-pro-zwart",
+      "/producten/sonomask-pro-zwart-met-hoofdband",
+      "/producten/voeg-een-wenskaart-toe",
+      "/producten/wijnkistje-voor-drie-flessen",
+      "/producten/wijnkistje-voor-een-fles",
+      "/producten/wijnkistje-voor-twee-flessen"
+    ],
+    "in_feed_not_in_sitemap": []
+  },
+  "skipped_detail": []
+}

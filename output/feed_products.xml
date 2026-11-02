@@ -3600,7 +3600,7 @@ De set wordt geleverd als plankje, waar de magneten eenvoudig uit te halen zijn.
     <g:id>73425</g:id>
     <g:title>Geurstokjes powder jasmin</g:title>
     <g:description>Heerlijk geurende interieurparfum van zachte, bloemige jasmijn met een subtiele frisheid die elke ruimte een elegante sfeer geeft.</g:description>
-    <g:availability>in stock</g:availability>
+    <g:availability>out of stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>17.95 EUR</g:price>
     <g:sale_price>14.95 EUR</g:sale_price>
@@ -9975,31 +9975,6 @@ Het horloge is verpakt in een mooie cadeau doos.</g:description>
     <g:custom_number_0>85.00</g:custom_number_0>
   </item>
   <item>
-    <g:id>30421</g:id>
-    <g:title>Dekbedovertrekset Avdat - Twee persoons</g:title>
-    <g:description>Breng rust en elegantie in de slaapkamer met dekbedovertrek Avdat. De warme roze tint met crèmekleurige bloemen zorgt voor een romantische en stijlvolle uitstraling die moeiteloos past in elk interieur.
-Gemaakt van 100% katoen-satijn, voelt dit dekbedovertrek heerlijk zacht en soepel aan. De subtiele glans geeft het geheel een luxe uitstraling, terwijl het ademende materiaal bijdraagt aan een comfortabele nachtrust.
-Dankzij de ruime instopstrook blijft het dekbed netjes op zijn plek en u ontvangt er bijpassende kussenslopen (60 x 70 cm) bij voor een complete look.
-
-Ook verkrijgbaar in de volgende maten:
-Eénpersoons: 140 x 200/220 cm
-Lits Jumeaux: 240 x 200/220 cm</g:description>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:price>109.00 EUR</g:price>
-    <g:sale_price>92.00 EUR</g:sale_price>
-    <g:link>https://www.israelwinkel.nl/producten/dekbedovertrekset-avdat?sku=30421</g:link>
-    <g:image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/30420%20Avdat%20dekbed%20klein%20formaat-01KN1KP1ZSHH6MS3APRFN1MEDH.png</g:image_link>
-    <g:brand>Israël Producten Centrum</g:brand>
-    <g:item_group_id>prod_01K18TP1AZ4R4S29HDFWQF207W</g:item_group_id>
-    <g:mpn>30421</g:mpn>
-    <g:product_type>Wonen &gt; Dekbedovertrekken</g:product_type>
-    <g:custom_label_0>Wonen</g:custom_label_0>
-    <g:custom_label_1>aanbieding</g:custom_label_1>
-    <g:custom_label_2>vanaf 75 euro</g:custom_label_2>
-    <g:custom_number_0>92.00</g:custom_number_0>
-  </item>
-  <item>
     <g:id>30422</g:id>
     <g:title>Dekbedovertrekset Avdat - Lits Jumeaux</g:title>
     <g:description>Breng rust en elegantie in de slaapkamer met dekbedovertrek Avdat. De warme roze tint met crèmekleurige bloemen zorgt voor een romantische en stijlvolle uitstraling die moeiteloos past in elk interieur.
@@ -10023,6 +9998,31 @@ Tweepersoons: 200 x 200/220 cm</g:description>
     <g:custom_label_1>aanbieding</g:custom_label_1>
     <g:custom_label_2>vanaf 75 euro</g:custom_label_2>
     <g:custom_number_0>99.00</g:custom_number_0>
+  </item>
+  <item>
+    <g:id>30421</g:id>
+    <g:title>Dekbedovertrekset Avdat - Twee persoons</g:title>
+    <g:description>Breng rust en elegantie in de slaapkamer met dekbedovertrek Avdat. De warme roze tint met crèmekleurige bloemen zorgt voor een romantische en stijlvolle uitstraling die moeiteloos past in elk interieur.
+Gemaakt van 100% katoen-satijn, voelt dit dekbedovertrek heerlijk zacht en soepel aan. De subtiele glans geeft het geheel een luxe uitstraling, terwijl het ademende materiaal bijdraagt aan een comfortabele nachtrust.
+Dankzij de ruime instopstrook blijft het dekbed netjes op zijn plek en u ontvangt er bijpassende kussenslopen (60 x 70 cm) bij voor een complete look.
+
+Ook verkrijgbaar in de volgende maten:
+Eénpersoons: 140 x 200/220 cm
+Lits Jumeaux: 240 x 200/220 cm</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>109.00 EUR</g:price>
+    <g:sale_price>92.00 EUR</g:sale_price>
+    <g:link>https://www.israelwinkel.nl/producten/dekbedovertrekset-avdat?sku=30421</g:link>
+    <g:image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/30420%20Avdat%20dekbed%20klein%20formaat-01KN1KP1ZSHH6MS3APRFN1MEDH.png</g:image_link>
+    <g:brand>Israël Producten Centrum</g:brand>
+    <g:item_group_id>prod_01K18TP1AZ4R4S29HDFWQF207W</g:item_group_id>
+    <g:mpn>30421</g:mpn>
+    <g:product_type>Wonen &gt; Dekbedovertrekken</g:product_type>
+    <g:custom_label_0>Wonen</g:custom_label_0>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
+    <g:custom_label_2>vanaf 75 euro</g:custom_label_2>
+    <g:custom_number_0>92.00</g:custom_number_0>
   </item>
   <item>
     <g:id>30420</g:id>
@@ -14180,7 +14180,7 @@ Geniet van de geborduurde mediterrane dessins met granaatappels of de skyline va
 
 Formaat: 60x34cm
 Gemaakt door Yair Emanuel in Jeruzalem</g:description>
-    <g:availability>in stock</g:availability>
+    <g:availability>out of stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>15.95 EUR</g:price>
     <g:link>https://www.israelwinkel.nl/producten/gastendoeken?sku=94258</g:link>
@@ -14203,7 +14203,7 @@ Geniet van de geborduurde mediterrane dessins met granaatappels of de skyline va
 
 Formaat: 60x34cm
 Gemaakt door Yair Emanuel in Jeruzalem</g:description>
-    <g:availability>in stock</g:availability>
+    <g:availability>out of stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>15.95 EUR</g:price>
     <g:link>https://www.israelwinkel.nl/producten/gastendoeken?sku=94257</g:link>
@@ -15558,6 +15558,34 @@ Verwen uzelf of verras iemand anders met deze heerlijke verzorgingsset!</g:descr
     <g:custom_label_1>aanbieding</g:custom_label_1>
     <g:custom_label_2>15 tot 30 euro</g:custom_label_2>
     <g:custom_number_0>23.50</g:custom_number_0>
+  </item>
+  <item>
+    <g:id>29811</g:id>
+    <g:title>God onder ons</g:title>
+    <g:description>De aartsvaders Abraham, Izak, Jakob en hun familie zijn deze adventstijd je reisgenoten. Vanaf de derde adventsweek reis je zelfs met een heel volk mee. Misschien een beetje out of the box in een dagboek voor Kerst – of toch niet? Want we mogen ontdekken dat de HEERE Zich al aan Abraham toonde als Mens. Ook Hagar, alle aartsvaders, Mozes en het volk Israël ontmoeten de HEERE, maar dan als Engel JHWH, dé Engel van de HEERE.
+
+Ontdek hoe God de Vader al vanaf het begin vooruitwijst naar de komst van Zijn Zoon in onze wereld. Hij kwam voor de aartsvaders, het volk Israël, voor álle volken, voor jou! Hij is de beloofde Messias.
+
+Dit adventsdagboek is een prachtig hulpmiddel voor iedere gelovige die verdieping zoekt in Gods Woord. Ruimte voor eigen notities. Met prachtige illustraties van Kirsten van Dalen.
+
+Inhoudelijke redactie: ds. Henk Poot en Jaap Bönker.
+
+Softcover
+Dianne de Lange
+95 pagina's</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>17.95 EUR</g:price>
+    <g:link>https://www.israelwinkel.nl/producten/god-onder-ons</g:link>
+    <g:image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/29811%20God%20onder%20ons%20voorkant-01M6DNYMZCRGKNJ7DCQA8ZQTPZ.jpg</g:image_link>
+    <g:brand>Israël Producten Centrum</g:brand>
+    <g:item_group_id>prod_01M6DNYN37HJE6EW9SRRC55KSH</g:item_group_id>
+    <g:mpn>29811</g:mpn>
+    <g:product_type>Boeken &gt; Overig &gt; Bijbelstudiegroep boeken</g:product_type>
+    <g:custom_label_0>Boeken</g:custom_label_0>
+    <g:custom_label_1>regulier</g:custom_label_1>
+    <g:custom_label_2>15 tot 30 euro</g:custom_label_2>
+    <g:custom_number_0>17.95</g:custom_number_0>
   </item>
   </channel>
 </rss>

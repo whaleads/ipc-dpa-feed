@@ -504,7 +504,7 @@ Natrium (mg) 9
 Calcium (mg) 80
 IJzer (mg) 4
 Allergie-informatie: Havermout, tarwe, gerst, sesam, cashewnoten. Kan andere boomnoten, amandelen en soja bevatten</g:description>
-    <g:availability>in stock</g:availability>
+    <g:availability>out of stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>5.40 EUR</g:price>
     <g:link>https://www.israelwinkel.nl/producten/granola?sku=67613</g:link>
@@ -6728,7 +6728,7 @@ Vezels 5,5
 Magnesium 50mg
 Kalium 600mg
 Natium 0</g:description>
-    <g:availability>in stock</g:availability>
+    <g:availability>out of stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>9.95 EUR</g:price>
     <g:link>https://www.israelwinkel.nl/producten/medjoul-dadels-1-kg-large-classic</g:link>
@@ -11936,7 +11936,7 @@ Esther Erwteman</g:description>
     <g:id>68035</g:id>
     <g:title>Medjoel dadels, 200gr</g:title>
     <g:description>Medjoel dadels, 200gr. Bestel online bij Israelwinkel.nl, het grootste aanbod Israëlische producten.</g:description>
-    <g:availability>in stock</g:availability>
+    <g:availability>out of stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>3.79 EUR</g:price>
     <g:link>https://www.israelwinkel.nl/producten/medjoel-dadels-200gr</g:link>
@@ -14404,7 +14404,7 @@ Verguld zilver = zilver met een laagje goud erover.</g:description>
     <g:brand>Israël Producten Centrum</g:brand>
     <g:item_group_id>prod_01M3202MGTP8ZGC8EV8R6VZHA3</g:item_group_id>
     <g:mpn>09564</g:mpn>
-    <g:product_type>Cadeaus &gt; Kerstpakketten</g:product_type>
+    <g:product_type>Cadeaus &gt; Kerstpakketten &gt; Wijn &gt; Wijnpakketten</g:product_type>
     <g:custom_label_0>Cadeaus</g:custom_label_0>
     <g:custom_label_1>regulier</g:custom_label_1>
     <g:custom_label_2>15 tot 30 euro</g:custom_label_2>
@@ -14488,7 +14488,7 @@ Het pakket bevat een rijke douchegel met granaatappelextract, een zachte handdoe
     <g:id>09565</g:id>
     <g:title>Geschenkkist Gold Edition</g:title>
     <g:description>Twee sublieme witte wijnen in een houten geschenkkistje: een volle, frisse Chardonnay en een kruidige Gewürztraminer</g:description>
-    <g:availability>in stock</g:availability>
+    <g:availability>out of stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>45.00 EUR</g:price>
     <g:link>https://www.israelwinkel.nl/producten/geschenkkist-gold-edition</g:link>
@@ -14569,7 +14569,7 @@ Drie prachtige droge rode wijnen van Barkan in een houten geschenkkist.</g:descr
     <g:brand>Israël Producten Centrum</g:brand>
     <g:item_group_id>prod_01M323JJEDESCNTP3JE75X9R4F</g:item_group_id>
     <g:mpn>09566</g:mpn>
-    <g:product_type>Cadeaus &gt; Kerstpakketten</g:product_type>
+    <g:product_type>Cadeaus &gt; Kerstpakketten &gt; Wijn &gt; Wijnpakketten</g:product_type>
     <g:custom_label_0>Cadeaus</g:custom_label_0>
     <g:custom_label_1>regulier</g:custom_label_1>
     <g:custom_label_2>30 tot 75 euro</g:custom_label_2>
@@ -15255,7 +15255,7 @@ De inhoud van het pakket kan afwijken als een wijn (tijdelijk) is uitverkocht.</
     <g:price>74.95 EUR</g:price>
     <g:sale_price>65.00 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/proefpakket-wijn-najaar-2026</g:link>
-    <g:image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/09567%20pakket%20wijnen%20najaar%202026-01M4DM4W31ZA5RAS8HKS8KVXRP.png</g:image_link>
+    <g:image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/09567%20pakket%20wijnen%20najaar%202026%20met%20gewurztraminer-01M709QACRDZ6XXB5P0S5R2MBR.png</g:image_link>
     <g:brand>Israël Producten Centrum</g:brand>
     <g:item_group_id>prod_01M4DM4W8B8THH8MMXFP12GPGS</g:item_group_id>
     <g:mpn>09567</g:mpn>
@@ -15268,7 +15268,12 @@ De inhoud van het pakket kan afwijken als een wijn (tijdelijk) is uitverkocht.</
   <item>
     <g:id>09568</g:id>
     <g:title>Proefpakket Barkan Classic rood</g:title>
-    <g:description>.</g:description>
+    <g:description>Proefpakket van 6 heerlijke rode wijnen:
+een volle droge Cabernet Sauvignon, een volle Merlot-Argaman met zachte smaak, een mild-kruidige Argaman, een stevige Shiraz en Malbec en een krachtige Pinot Noir.
+
+Geniet van zes karaktervolle wijnen die elke wijnliefhebber verrassen!
+
+(De samenstelling kan afwijken wanneer een wijn tijdelijk uitverkocht is.)</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>79.50 EUR</g:price>

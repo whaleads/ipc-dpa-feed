@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-11-11T11:48:09+00:00",
-  "source_items": 602,
-  "feed_items": 602,
+  "generated_utc": "2026-11-12T12:33:31+00:00",
+  "source_items": 597,
+  "feed_items": 597,
   "skipped": 0,
-  "in_stock": 550,
-  "out_of_stock": 52,
+  "in_stock": 544,
+  "out_of_stock": 53,
   "on_sale": 37,
   "duplicate_ids": [
     "75226",
@@ -17,7 +17,7 @@
     "75228 -> 75228.."
   ],
   "brand_fallback": 216,
-  "titles_cleaned": 391,
+  "titles_cleaned": 386,
   "description_fallback": 1,
   "coverage": {
     "sitemap_product_pages": 430,

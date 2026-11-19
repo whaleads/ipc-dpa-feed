@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-18T12:57:07+00:00",
-  "source_items": 598,
-  "feed_items": 598,
+  "generated_utc": "2026-11-19T12:52:05+00:00",
+  "source_items": 599,
+  "feed_items": 599,
   "skipped": 0,
-  "in_stock": 553,
+  "in_stock": 554,
   "out_of_stock": 45,
   "on_sale": 37,
   "duplicate_ids": [
@@ -16,13 +16,13 @@
     "75227 -> 75227..",
     "75228 -> 75228.."
   ],
-  "brand_fallback": 218,
+  "brand_fallback": 219,
   "titles_cleaned": 385,
   "description_fallback": 1,
   "coverage": {
-    "sitemap_product_pages": 431,
-    "feed_product_pages": 420,
-    "covered": 420,
+    "sitemap_product_pages": 432,
+    "feed_product_pages": 421,
+    "covered": 421,
     "coverage": 0.9745,
     "in_sitemap_not_in_feed": [
       "/producten/ik-wil-mijn-product-laten-inpakken",

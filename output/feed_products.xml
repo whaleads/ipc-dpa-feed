@@ -897,6 +897,7 @@ Vet 1</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>7.95 EUR</g:price>
+    <g:sale_price>2.95 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/sauzen?sku=68200</g:link>
     <g:image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/68200%20SAUS-bbq-01KFDKAF7TK4B11SNHBEK5EC6R.jpg</g:image_link>
     <g:additional_image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/68201%20SAUS-pruim-01KFDKAF867QX78NF1ATSWVKK6.jpg</g:additional_image_link>
@@ -906,9 +907,9 @@ Vet 1</g:description>
     <g:mpn>68200</g:mpn>
     <g:product_type>Voedsel &amp; Keuken &gt; Saus</g:product_type>
     <g:custom_label_0>Voedsel &amp; Keuken</g:custom_label_0>
-    <g:custom_label_1>regulier</g:custom_label_1>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
     <g:custom_label_2>tot 15 euro</g:custom_label_2>
-    <g:custom_number_0>7.95</g:custom_number_0>
+    <g:custom_number_0>2.95</g:custom_number_0>
   </item>
   <item>
     <g:id>68202</g:id>
@@ -933,6 +934,7 @@ Zout 0.6</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>7.95 EUR</g:price>
+    <g:sale_price>2.95 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/sauzen?sku=68202</g:link>
     <g:image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/68202%20SAUS-knoflook-01KFDKAF8A0CPPPGQZ6CE8DY67.jpg</g:image_link>
     <g:additional_image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/68200%20SAUS-bbq-01KFDKAF7TK4B11SNHBEK5EC6R.jpg</g:additional_image_link>
@@ -942,9 +944,9 @@ Zout 0.6</g:description>
     <g:mpn>68202</g:mpn>
     <g:product_type>Voedsel &amp; Keuken &gt; Saus</g:product_type>
     <g:custom_label_0>Voedsel &amp; Keuken</g:custom_label_0>
-    <g:custom_label_1>regulier</g:custom_label_1>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
     <g:custom_label_2>tot 15 euro</g:custom_label_2>
-    <g:custom_number_0>7.95</g:custom_number_0>
+    <g:custom_number_0>2.95</g:custom_number_0>
   </item>
   <item>
     <g:id>68201</g:id>
@@ -969,6 +971,7 @@ Zout 0.7</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>7.95 EUR</g:price>
+    <g:sale_price>2.95 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/sauzen?sku=68201</g:link>
     <g:image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/68201%20SAUS-pruim-01KFDKAF867QX78NF1ATSWVKK6.jpg</g:image_link>
     <g:additional_image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/68200%20SAUS-bbq-01KFDKAF7TK4B11SNHBEK5EC6R.jpg</g:additional_image_link>
@@ -978,9 +981,9 @@ Zout 0.7</g:description>
     <g:mpn>68201</g:mpn>
     <g:product_type>Voedsel &amp; Keuken &gt; Saus</g:product_type>
     <g:custom_label_0>Voedsel &amp; Keuken</g:custom_label_0>
-    <g:custom_label_1>regulier</g:custom_label_1>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
     <g:custom_label_2>tot 15 euro</g:custom_label_2>
-    <g:custom_number_0>7.95</g:custom_number_0>
+    <g:custom_number_0>2.95</g:custom_number_0>
   </item>
   <item>
     <g:id>74745</g:id>
@@ -1031,6 +1034,7 @@ Zout 0.02</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>4.95 EUR</g:price>
+    <g:sale_price>2.95 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/charosset-dadel-appel-spread</g:link>
     <g:image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/67020%20nwe%20charoset%20najaar%202026%20klein%20formaat-01M2QA36QVKZS08MAACNHPDJEF.png</g:image_link>
     <g:brand>Beth-El food ltd</g:brand>
@@ -1038,9 +1042,9 @@ Zout 0.02</g:description>
     <g:mpn>67020</g:mpn>
     <g:product_type>Voedsel &amp; Keuken &gt; Dadelproducten &gt; Ontbijt &gt; Jam</g:product_type>
     <g:custom_label_0>Voedsel &amp; Keuken</g:custom_label_0>
-    <g:custom_label_1>regulier</g:custom_label_1>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
     <g:custom_label_2>tot 15 euro</g:custom_label_2>
-    <g:custom_number_0>4.95</g:custom_number_0>
+    <g:custom_number_0>2.95</g:custom_number_0>
   </item>
   <item>
     <g:id>67057</g:id>
@@ -3497,6 +3501,7 @@ Benzeensulfonzuur, C10-13-alkylderivaten, natriumzouten</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>8.95 EUR</g:price>
+    <g:sale_price>4.50 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/all-purpose-schoonmaakgel-jet</g:link>
     <g:image_link>https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4548049390.jpg</g:image_link>
     <g:brand>Sano International ltd</g:brand>
@@ -3504,9 +3509,9 @@ Benzeensulfonzuur, C10-13-alkylderivaten, natriumzouten</g:description>
     <g:mpn>75056</g:mpn>
     <g:product_type>Wonen &gt; Voedsel &amp; Keuken &gt; Keuken &gt; Keuken accessoires &gt; Schoonmaak</g:product_type>
     <g:custom_label_0>Wonen</g:custom_label_0>
-    <g:custom_label_1>regulier</g:custom_label_1>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
     <g:custom_label_2>tot 15 euro</g:custom_label_2>
-    <g:custom_number_0>8.95</g:custom_number_0>
+    <g:custom_number_0>4.50</g:custom_number_0>
   </item>
   <item>
     <g:id>93114</g:id>
@@ -5791,6 +5796,7 @@ Vaatwasser- en magnetron bestendig.
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>24.95 EUR</g:price>
+    <g:sale_price>15.00 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/keramiek-bord-olijf</g:link>
     <g:image_link>https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/3852173293.jpg</g:image_link>
     <g:brand>George Kouz Ceramics</g:brand>
@@ -5798,9 +5804,9 @@ Vaatwasser- en magnetron bestendig.
     <g:mpn>67585</g:mpn>
     <g:product_type>Wonen &gt; Aardewerk &gt; Keuken &gt; Keuken accessoires</g:product_type>
     <g:custom_label_0>Wonen</g:custom_label_0>
-    <g:custom_label_1>regulier</g:custom_label_1>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
     <g:custom_label_2>15 tot 30 euro</g:custom_label_2>
-    <g:custom_number_0>24.95</g:custom_number_0>
+    <g:custom_number_0>15.00</g:custom_number_0>
   </item>
   <item>
     <g:id>67583</g:id>
@@ -6771,6 +6777,7 @@ Ingrediënten:
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>2.75 EUR</g:price>
+    <g:sale_price>1.95 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/doppindas</g:link>
     <g:image_link>https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/3226137588.jpg</g:image_link>
     <g:brand>Eurocompany</g:brand>
@@ -6778,9 +6785,9 @@ Ingrediënten:
     <g:mpn>63050</g:mpn>
     <g:product_type>Voedsel &amp; Keuken &gt; Zaden &gt; Tussendoor</g:product_type>
     <g:custom_label_0>Voedsel &amp; Keuken</g:custom_label_0>
-    <g:custom_label_1>regulier</g:custom_label_1>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
     <g:custom_label_2>tot 15 euro</g:custom_label_2>
-    <g:custom_number_0>2.75</g:custom_number_0>
+    <g:custom_number_0>1.95</g:custom_number_0>
   </item>
   <item>
     <g:id>75274</g:id>
@@ -6889,6 +6896,7 @@ Olijfolie is bekend uit de keuken, maar het is ook een geweldige en gezonde opti
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>18.95 EUR</g:price>
+    <g:sale_price>9.50 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie</g:link>
     <g:image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/74766%20body%20lotion%20nwe%20verpakking%20-%20klein%20formaat-01KPDDJTG3T6NE09RJ94VAXT1K.png</g:image_link>
     <g:brand>S.A. Cozmetiks ltd</g:brand>
@@ -6896,9 +6904,9 @@ Olijfolie is bekend uit de keuken, maar het is ook een geweldige en gezonde opti
     <g:mpn>74766</g:mpn>
     <g:product_type>Mooi &amp; Gezond &gt; Lichaamsverzorging &gt; Bodycreme &gt; Bodylotion &gt; Shemen amour &gt; Cadeaus &gt; Cadeaus voor haar &gt; Overige body producten</g:product_type>
     <g:custom_label_0>Mooi &amp; Gezond</g:custom_label_0>
-    <g:custom_label_1>regulier</g:custom_label_1>
-    <g:custom_label_2>15 tot 30 euro</g:custom_label_2>
-    <g:custom_number_0>18.95</g:custom_number_0>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
+    <g:custom_label_2>tot 15 euro</g:custom_label_2>
+    <g:custom_number_0>9.50</g:custom_number_0>
   </item>
   <item>
     <g:id>94311</g:id>
@@ -7201,6 +7209,7 @@ Aqua, Glycerin, Shea (Buiyrospermum Parkii) Butter, Stearic Acid, Cetyl Alcohol,
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>19.50 EUR</g:price>
+    <g:sale_price>12.50 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/shemen-amour-dagcreme-met-olijfolie</g:link>
     <g:image_link>https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/2893410454.jpg</g:image_link>
     <g:brand>S.A. Cozmetiks ltd</g:brand>
@@ -7208,9 +7217,9 @@ Aqua, Glycerin, Shea (Buiyrospermum Parkii) Butter, Stearic Acid, Cetyl Alcohol,
     <g:mpn>74765</g:mpn>
     <g:product_type>Mooi &amp; Gezond &gt; Gezichtsverzorging &gt; Dagcreme &gt; Shemen amour</g:product_type>
     <g:custom_label_0>Mooi &amp; Gezond</g:custom_label_0>
-    <g:custom_label_1>regulier</g:custom_label_1>
-    <g:custom_label_2>15 tot 30 euro</g:custom_label_2>
-    <g:custom_number_0>19.50</g:custom_number_0>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
+    <g:custom_label_2>tot 15 euro</g:custom_label_2>
+    <g:custom_number_0>12.50</g:custom_number_0>
   </item>
   <item>
     <g:id>74767</g:id>
@@ -9304,6 +9313,7 @@ Ingrediënten: Petrolatum, Sage (Salvia Officinalis) &amp; Polygonum Bistorta, P
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>6.50 EUR</g:price>
+    <g:sale_price>4.95 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/moraz-lippenbalsem</g:link>
     <g:image_link>https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/2893539865.jpg</g:image_link>
     <g:brand>Moraz medical herbs ltd</g:brand>
@@ -9311,9 +9321,9 @@ Ingrediënten: Petrolatum, Sage (Salvia Officinalis) &amp; Polygonum Bistorta, P
     <g:mpn>75206</g:mpn>
     <g:product_type>Mooi &amp; Gezond &gt; Moraz</g:product_type>
     <g:custom_label_0>Mooi &amp; Gezond</g:custom_label_0>
-    <g:custom_label_1>regulier</g:custom_label_1>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
     <g:custom_label_2>tot 15 euro</g:custom_label_2>
-    <g:custom_number_0>6.50</g:custom_number_0>
+    <g:custom_number_0>4.95</g:custom_number_0>
   </item>
   <item>
     <g:id>19061</g:id>
@@ -10649,7 +10659,7 @@ Voorkom blessures, rugklachten en schade aan het lichaam. Deze anatomische zolen
 Krijg gezondere voeten vanaf de eerste minuut. De zooltjes zijn zo ontworpen dat de bloedsomloop in de voeten maximaal wordt gestimuleerd. De speciale latex gel in de zool masseert jouw voet tijdens het lopen. Alle schokken worden opgevangen waardoor je minder pijnlijke &amp; gezondere voeten krijgt.
 Reken af met zweetvoeten! Is het niet vervelend? Je wilt even je schoenen uittrekken, maar je bent bang dat iedereen in je omgeving die scherpe en vieze geur ruikt. Met GoFix inlegzolen kan dit tot het verleden behoren. Door kleine gaatjes in de zool wordt zweet snel opgevangen en geabsorbeerd. Als je last hebt van zweetvoeten is het niet jouw zweet, maar de bacteriën die de stank veroorzaken. De leren GoFix zooltjes zijn 100% antibacterieel en voorkomen dus de nare geur. De combinatie van leer en de antibacteriële latexgel in de zool stoppen de bacteriëngroei waardoor jij gerust je schoenen kan uittrekken.
 Perfecte support voor jouw type voet. Het traagschuim in de zool biedt geweldige ondersteuning voor jouw voet. Het schuim wordt zacht als het enigszins wordt verwarmd door je lichaamstemperatuur. De zool verdeelt je lichaamsgewicht en vermindert drukpunten. Zo krijgen zwakke gedeeltes in jouw voet dus maximale ondersteuning.</g:description>
-    <g:availability>in stock</g:availability>
+    <g:availability>out of stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>29.50 EUR</g:price>
     <g:link>https://www.israelwinkel.nl/producten/gofix-inlegzooltjes?sku=33015</g:link>
@@ -12087,6 +12097,7 @@ Het is een betekenisvol sieraad om dichtbij het hart te dragen als persoonlijk s
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>119.00 EUR</g:price>
+    <g:sale_price>69.00 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/zilveren-hanger-levensboom</g:link>
     <g:image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/12911%20hanger%20levensboom%20klein%20formaat-01KKEA5B7EFGNDTE7BF6JXTNH9.png</g:image_link>
     <g:brand>Israël Producten Centrum</g:brand>
@@ -12094,9 +12105,9 @@ Het is een betekenisvol sieraad om dichtbij het hart te dragen als persoonlijk s
     <g:mpn>12911</g:mpn>
     <g:product_type>Sieraden &amp; Mode &gt; Hangers</g:product_type>
     <g:custom_label_0>Sieraden &amp; Mode</g:custom_label_0>
-    <g:custom_label_1>regulier</g:custom_label_1>
-    <g:custom_label_2>vanaf 75 euro</g:custom_label_2>
-    <g:custom_number_0>119.00</g:custom_number_0>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
+    <g:custom_label_2>30 tot 75 euro</g:custom_label_2>
+    <g:custom_number_0>69.00</g:custom_number_0>
   </item>
   <item>
     <g:id>73138</g:id>
@@ -12770,6 +12781,7 @@ In verband met het risico op breuk bij verzending is de minimum bestelhoeveelhei
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>9.80 EUR</g:price>
+    <g:sale_price>7.49 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/segal-droge-rode-wijn</g:link>
     <g:image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/09201%20segal%20rood%2006-2026-01KVFCBWXRT5XMP194FSSY9GMV.jpg</g:image_link>
     <g:brand>Israël Producten Centrum</g:brand>
@@ -12777,9 +12789,9 @@ In verband met het risico op breuk bij verzending is de minimum bestelhoeveelhei
     <g:mpn>09201</g:mpn>
     <g:product_type>Wijn &gt; Rode wijn</g:product_type>
     <g:custom_label_0>Wijn</g:custom_label_0>
-    <g:custom_label_1>regulier</g:custom_label_1>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
     <g:custom_label_2>tot 15 euro</g:custom_label_2>
-    <g:custom_number_0>9.80</g:custom_number_0>
+    <g:custom_number_0>7.49</g:custom_number_0>
   </item>
   <item>
     <g:id>33030</g:id>
@@ -15644,6 +15656,7 @@ Mosab Hassan Yousef &amp; Ron Brackin</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>74.50 EUR</g:price>
+    <g:sale_price>29.50 EUR</g:sale_price>
     <g:link>https://www.israelwinkel.nl/producten/collier-labradoriet-en-parel</g:link>
     <g:image_link>https://isreal-winkel.ams3.digitaloceanspaces.com/14153%20goudkl%20ketting%20labradoriet%20okt%2025-01M86FWKPDYQRQA4SH9R5MS0WF.jpg</g:image_link>
     <g:brand>Israël Producten Centrum</g:brand>
@@ -15651,9 +15664,9 @@ Mosab Hassan Yousef &amp; Ron Brackin</g:description>
     <g:mpn>14153</g:mpn>
     <g:product_type>Sieraden &amp; Mode &gt; Colliers</g:product_type>
     <g:custom_label_0>Sieraden &amp; Mode</g:custom_label_0>
-    <g:custom_label_1>regulier</g:custom_label_1>
-    <g:custom_label_2>30 tot 75 euro</g:custom_label_2>
-    <g:custom_number_0>74.50</g:custom_number_0>
+    <g:custom_label_1>aanbieding</g:custom_label_1>
+    <g:custom_label_2>15 tot 30 euro</g:custom_label_2>
+    <g:custom_number_0>29.50</g:custom_number_0>
   </item>
   </channel>
 </rss>
